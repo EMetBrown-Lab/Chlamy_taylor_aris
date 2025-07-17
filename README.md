@@ -20,7 +20,7 @@ I recommend working in a venv for convenience, and personally manage all my scri
 
 If you find yourself doubting anything, you want precisions or data, please let us know. Marc Lagoin (marc.lagoin@u-bordeaux.fr), Yacine Amarouchene (yacine.amarouchene@u-bordeaux.fr), Antoine Allard (antoine.allard@u-bordeaux.fr) and Thomas Salez (thomas.salez@u-bordeaux.fr) are corresponding authors, but I can also help on code inquiries as the team numerician happily.
 
-Taylor-Aris-ly yours,
+Best,
 
 Juliette Lacherez (juliette.lacherez@u-bordeaux.fr), with Marc Lagoin, Guirec de Tournemire, Ahmad Badr, Yacine Amarouchene, Antoine Allard and Thomas Salez.
 
