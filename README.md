@@ -22,5 +22,5 @@ If you find yourself doubting anything, you want precisions or data, please let 
 
 Taylor-Aris-ly yours,
 
-Juliette Lacherez (juliette.lacherez@u-bordeaux.fr)
+Juliette Lacherez (juliette.lacherez@u-bordeaux.fr), with Marc Lagoin, Guirec de Tournemire, Ahmad Badr, Yacine Amarouchene, Antoine Allard and Thomas Salez.
 
