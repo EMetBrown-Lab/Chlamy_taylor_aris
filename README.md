@@ -1,8 +1,12 @@
 # Enhanced dispersion of active microswimmers in confined flows
 
-## Codes 
+## Codes and supplementary data
 
-Hi ! The codes in this repository were used for experimental and numerical data treatment as well as numerical data simulation. Below is an explanation of how to use the codes.
+Hi ! 
+
+This repository regroups codes and experimental as well as numerical data (movies and gifs) on our project "Enhanced dispersion of active microswimmers in confined flows".
+
+The codes in this repository were used for experimental and numerical data treatment as well as numerical data simulation. Below is an explanation of how to use the codes.
 
 Please begin by downloading all code to a same folder. Code was written for python 3.13.5. 
 
@@ -11,7 +15,7 @@ I recommend working in a venv for convenience, and personally manage all my scri
 - For the numerical simulations :
   Run ```setup.py``` in your terminal to compile ```chlamy_packages.pyx``` file. Info is in the script. 
   No need to touch ```chlamy_run_simul.py```. It's fine as is and being called by another file.
-  Tu run the simulations : simply run ```chlamy_runner_classes.ipynb```. It's a jupyter file. You can tune all the parameters you wanna iterate through easily in it.
+  To run the simulations : simply run ```chlamy_runner_classes.ipynb```. It's a jupyter file. You can tune all the parameters you wanna iterate through easily in it.
   Then, analysis is done with the ```chlamy_analysis_classes.ipynb```. It is not a very elegant code, but it is sufficient and quick enough that I didn't find the need to make it better.
 
 - For Marc's experimental codes :
