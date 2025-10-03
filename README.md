@@ -18,6 +18,10 @@ I recommend working in a venv for convenience, and personally manage all my scri
   His data is available upon reasonable request. Positions of tracked particles are retrieved with ```just_tracking_big_files.py``` and linked into trajectories with ```just_linking_big_files.py```. Then, article figures are created with ```article.py```.
 
 
+
+I also drop here a few gifs and movies to help you visualise the system. ```alive_``` and ```dead_chlamy_P1_T2s_final.mp4``` showcase two experiments with chlamydomonas in oscillating flow (dead, and alive case). I generated some trajectories which you can visualise in the ```.gif``` format as well, for very short times and for a whole trajectory (thought with a very small frame rate in that case). My gifs showcase the instataneous positions at a given time step all overlain, colour-coded by local concentration of points on the plot, for illustration purposes.
+
+
 If you find yourself doubting anything, you want precisions or data, please let us know. Marc Lagoin (marc.lagoin@u-bordeaux.fr), Yacine Amarouchene (yacine.amarouchene@u-bordeaux.fr), Antoine Allard (antoine.allard@u-bordeaux.fr) and Thomas Salez (thomas.salez@u-bordeaux.fr) are corresponding authors, but I can also help on code inquiries as the team numerician happily.
 
 Best,
